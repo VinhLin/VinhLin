@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhlin&label=Profile%20views&color=0e75b6&style=flat" alt="vinhlin" /> </p>
 
-- 🔭 Personal Project [HOMELAB Server](http://vinhld-homelab.asuscomm.com/login)
+- 🔭 Personal Project [HOMELAB Server](https://vinhld-homelab.asuscomm.com/login)
 
 - 🌱 I’m currently learning **Rust, Raspberry Pico, Pentest Web**
 
 - 💬 Ask me about **IoT, Cyber-Security**
 
 - 📫 How to reach me **linducvinh@gmail.com**
+
+- Hiring me on Upwork: https://www.upwork.com/freelancers/~017704277080c06f28?mp_source=share
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
