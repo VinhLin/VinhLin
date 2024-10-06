@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhlin&label=Profile%20views&color=0e75b6&style=flat" alt="vinhlin" /> </p>
 
-![IoT](https://github.com/VinhLin/VinhLin/iot.jpg)
+![IoT](https://github.com/VinhLin/VinhLin/blob/main/iot.jpg)
 
 - 🔭 Personal Project [HOMELAB Server](https://www.vinhld-homelab.io.vn/login)
 
