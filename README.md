@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhlin&label=Profile%20views&color=0e75b6&style=flat" alt="vinhlin" /> </p>
 
+![IoT](https://github.com/VinhLin/VinhLin/iot.jpg)
+
 - 🔭 Personal Project [HOMELAB Server](https://www.vinhld-homelab.io.vn/login)
 
-- 🌱 I’m currently learning **Rust-lang,Web Pentest,IoT Firmware Reverse**
+- 🌱 I’m currently learning **Rust-lang, Web Pentest, IoT Firmware Reverse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinhLin](https://github.com/VinhLin)
+- 👨‍💻 All of my projects are available at [Github VinhLin](https://github.com/VinhLin)
 
-- 📝 I regularly write articles on [https://blog.vinhld-homelab.io.vn/posts/](https://blog.vinhld-homelab.io.vn/posts/)
+- 📝 I regularly write articles on [Electronic and Technology](https://blog.vinhld-homelab.io.vn/changelog/)
 
 - 💬 Ask me about **IoT, Cyber-Security**
 
 - 📫 How to reach me **linducvinh@gmail.com**
 
-- 📄 Know about my experiences [https://blog.vinhld-homelab.io.vn/about/](https://blog.vinhld-homelab.io.vn/about/)
-
-- ⚡ Fun fact **serious**
+- ⚡ [About me](https://blog.vinhld-homelab.io.vn/about/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinh-lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinh-lin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinh-lin-3921a8191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinh-lin" height="30" width="40" /></a>
 <a href="https://fb.com/vinh lin duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinh lin duc" height="30" width="40" /></a>
 </p>
 
